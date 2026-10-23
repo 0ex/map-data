@@ -1,0 +1,27 @@
+{
+  "n2721823451": {
+    "google_place_id": "ChIJ35H6tMQJxkcRBKR7oU3makc",
+    "google_cid": "5146178745320317956",
+    "confidence": 0.99
+  },
+  "n2721823575": {
+    "google_place_id": null,
+    "google_cid": null,
+    "confidence": 0.0
+  },
+  "n5551560327": {
+    "google_place_id": "ChIJ3QX9ysQJxkcRbwelKBJNiGA",
+    "google_cid": "6955894364860385135",
+    "confidence": 0.99
+  },
+  "n5870490900": {
+    "google_place_id": "ChIJ3QX9ysQJxkcRbwelKBJNiGA",
+    "google_cid": "6955894364860385135",
+    "confidence": 0.91
+  },
+  "n6662347488": {
+    "google_place_id": "ChIJ_xLRBeoJxkcRBObfSe0DjvQ",
+    "google_cid": "17622026709628872196",
+    "confidence": 0.99
+  }
+}
